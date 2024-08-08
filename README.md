@@ -1,8 +1,8 @@
-# Edison Cai :desktop_computer:
+# :desktop_computer: Edison Cai
 
 My name is Edison, Grade 12 Student from UHS. Aiming to unite communities through software and development. 
 
-## Tools and Languages
+## :hammer_and_wrench:	 Tools and Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -11,7 +11,7 @@ My name is Edison, Grade 12 Student from UHS. Aiming to unite communities throug
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## Social Media
+## :mega:	Social Media
 
 <a href="https://www.linkedin.com/in/edisoncai/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
