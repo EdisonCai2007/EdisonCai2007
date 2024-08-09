@@ -11,6 +11,12 @@ My name is Edison, Grade 12 Student from UHS. Aiming to unite communities throug
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+<br />
+
+
+![Background Image](https://github.com/EdisonCai2007/EdisonCai2007/blob/main/backgroundimage.png)
+
+
 ## :mega:	Social Media
 
 <a href="https://www.linkedin.com/in/edisoncai/" target="_blank">
