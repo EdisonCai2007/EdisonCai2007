@@ -17,7 +17,7 @@ My name is Edison, Grade 12 Student from UHS. Aiming to unite communities throug
 ![Background Image](https://github.com/EdisonCai2007/EdisonCai2007/blob/main/backgroundimage.png)
 
 
-## :mega:	Social Media
+## :mega:	Contact Me @
 
 <a href="https://www.linkedin.com/in/edisoncai/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
