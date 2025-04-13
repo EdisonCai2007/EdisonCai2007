@@ -4,6 +4,7 @@ My name is Edison, Grade 12 Student from UHS. Aiming to unite communities throug
 
 ## :hammer_and_wrench:	 Tools and Languages
 
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -18,16 +19,6 @@ My name is Edison, Grade 12 Student from UHS. Aiming to unite communities throug
 
 
 ![Background Image](https://github.com/EdisonCai2007/EdisonCai2007/blob/main/backgroundimage.png)
-
-
-## :mega:	Contact Me
-
-<a href="https://www.linkedin.com/in/edisoncai/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:edisoncai2665@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 
 <!---
 EdisonCai2007/EdisonCai2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
