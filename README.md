@@ -1,6 +1,6 @@
 # :desktop_computer: Edison Cai
 
-My name is Edison, Grade 12 Student from UHS. Aiming to unite communities through software and development. 
+My name is Edison, I am a software engineer based in Toronto, Canada. As a student at UofT, I aim to unite communities through software and development. 
 
 ## :hammer_and_wrench:	 Tools and Languages
 
